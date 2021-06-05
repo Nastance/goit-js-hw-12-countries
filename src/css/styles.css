@@ -60,7 +60,7 @@ body {
   left: 0px;
   font-size: 14px;
   color: #fff;
-  pointer-event: none;
+
   transition: all 0.5s ease-in-out;
 }
 .input-container input {
